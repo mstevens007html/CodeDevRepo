@@ -1,0 +1,38 @@
+img {
+position: absolute;
+   top: 50%;
+   left: 50%;
+   width: 100px;
+   height: 100x;
+   margin-top: -500px; /* Half the height */
+   margin-left: -500px; /* Half the width */
+}
+
+a {
+position: absolute;    
+}
+footer{
+    text-align: center;
+    font-family: fantasy, sans-serif, cursive;
+    font-size: 15px;
+    }
+
+ul {
+    
+    color: green;
+    text-align: right;
+    
+   }
+body {
+    background-color: aliceblue;
+    
+}
+
+h1 {
+    text-align: center;
+    text-decoration-color: chocolate;
+    text-transform: full-width;
+    text-decoration-style: wavy;
+ 
+    
+}
